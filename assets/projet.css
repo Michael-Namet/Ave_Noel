@@ -1,0 +1,55 @@
+body{
+	background-color : #fffaf0;
+}
+#Homebutton{
+	background-color: black;
+	width:175px;
+	height: 80px;
+	font-size : 22px;
+	color : white;
+}
+#Homebutton:hover{
+	background-color : grey;
+}
+.connex{
+	width : 150px;
+  height : 50px;
+  overflow : hidden;
+  line-height : 30px; /* Pour l'alignement Vertical */
+  background-position : 0 0;
+  background-color : black;
+  color : white;
+}
+.connex:hover{
+	background-color : grey;
+}
+#margeDroite{
+	margin : left;
+	height : 500px;
+	width : 150px;
+}
+h2{
+	text-align : center ;
+	font-size : 15px;
+}
+.newPost{
+	width : 60%;
+	float : top ;
+	margin : 0 auto;
+	position:absolute;
+	top:150px;
+	left : 250px;
+}
+h1{
+	position:absolute;
+	top:30px;
+	left : 640px;
+}
+.tablePseudo{
+	width : 100%;
+	border-spacing: 12px;
+}
+.pseudo{
+	text-align: center;
+	font-size: large;
+}
